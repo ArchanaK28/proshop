@@ -17,9 +17,11 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
     "express": "^4.19.2",
     "express-async-handler": "^1.2.0",
     "git": "^0.1.5",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.0"
   },
   "devDependencies": {
